@@ -1,0 +1,10 @@
+scipy
+pandas
+scikit-learn
+nose
+nolearn
+scikit-image
+opencv-python
+dlib
+Keras
+tensorflow
